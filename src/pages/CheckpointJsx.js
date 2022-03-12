@@ -6,7 +6,7 @@ const CheckpointJsx = () => {
     return (
         <>
             <div style={{border:"solid 1px black",maxWidth:"100vw"}}>
-                <h1 className='title red'>Your name here</h1>
+                <h1 className='title red'>Akram Meliou</h1>
                 <br />
                 <img src="/imageInPublic.png" className='srcImg' />
                 <br />
