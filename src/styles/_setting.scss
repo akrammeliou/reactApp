@@ -1,7 +1,15 @@
 $color-1 : red;
+$color-2: #ffffff;
 
 h1 {
     color: $color-1;
+}
+h2 {
+    color: $color-2;
+}
+.bg-image {
+    background-image: url("/images/bg-home.jpg");
+    height: 400px;
 }
 .FormGroup {
     margin: 2em auto;

@@ -7,13 +7,6 @@ import {
   MDBIcon,
   MDBNavbarNav,
   MDBNavbarItem,
-  MDBNavbarLink,
-  MDBBtn,
-  MDBDropdown,
-  MDBDropdownToggle,
-  MDBDropdownMenu,
-  MDBDropdownItem,
-  MDBDropdownLink,
   MDBCollapse
 } from 'mdb-react-ui-kit';
 import { Link } from 'react-router-dom';
@@ -45,6 +38,9 @@ export default function Menu() {
             </MDBNavbarItem>
             <MDBNavbarItem>
               <Link className="nav-link" to="/contact">Contact</Link>
+            </MDBNavbarItem>
+            <MDBNavbarItem>
+              <Link className="nav-link" to="/checkpoint-jsx">Checkpoint Jsx</Link>
             </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>

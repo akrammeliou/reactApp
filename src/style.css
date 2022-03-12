@@ -1,0 +1,18 @@
+.title {
+    font-size: 45px;
+}
+.red {
+    color: red;
+}
+.publicImg {
+    width: 500px;
+    height: auto;
+    margin: 10px auto;
+    box-shadow: 5px 6px 15px 3px #7a7a7a;
+}
+.srcImg {
+    width: 500px;
+    height: auto;
+    margin: 10px auto;
+    box-shadow: 5px 6px 15px 3px #7a7a7a;
+}
