@@ -16,3 +16,17 @@
     margin: 10px auto;
     box-shadow: 5px 6px 15px 3px #7a7a7a;
 }
+.Profile {
+    padding: 2em;
+}
+.photoProfile {
+    width: 250px;
+    height: auto;
+}
+h2.fullName {
+    color: #7a7a7a;
+}
+.adresse {
+    color: #333333;
+    font-size: 18px;
+}

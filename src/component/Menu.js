@@ -42,6 +42,9 @@ export default function Menu() {
             <MDBNavbarItem>
               <Link className="nav-link" to="/checkpoint-jsx">Checkpoint Jsx</Link>
             </MDBNavbarItem>
+            <MDBNavbarItem>
+              <Link className="nav-link" to="/profil">Profil</Link>
+            </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
       </MDBContainer>
